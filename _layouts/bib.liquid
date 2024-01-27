@@ -90,7 +90,7 @@
       {%- if forloop.first == false -%},&nbsp;{%- endif -%}
       {%- if forloop.last and author_array_limit == author_array_size -%}and&nbsp;{%- endif -%}
       {%- endif -%}
-      {%- if author_is_self -%}
+      {% if author.first == "Dinh Nam" and author.last == "Pham" %}
       <b>{{author.first}} {{author.last}}</b>
       {%- else -%}
       {%- if coauthor_url -%}
