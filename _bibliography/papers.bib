@@ -23,7 +23,7 @@
   selected={true}
 }
 
-@inproceedings{phamd2023isambiguating,
+@inproceedings{phamd2023disambiguating,
   title={Disambiguating Signs: Deep Learning-based Gloss-level Classification for German Sign Language by Utilizing Mouth Actions},
   author={Pham,Dinh Nam and Czehmann,Vera and Avramidis,Eleftherios},
   booktitle={Proceedings of the 31st European Symposium on Artificial Neural Networks, Computational Intelligence, and Machine Learning (ESANN 2023)},
@@ -32,8 +32,15 @@
   publisher = {i6doc.com publ.},
   isbn = {978-2-87587-088-9},
   doi={10.14428/esann/2023.ES2023-168},
-  pdf={13340_ES2023-168.pdf},
+  pdf={https://www.esann.org/sites/default/files/proceedings/2023/ES2023-168.pdf},
   poster={ESANN2023_Disambiguating_Signs_Mouth_Actions.pdf},
+  abstract={Despite the importance of mouth actions in Sign Languages, previous work on Automatic Sign Language Recognition (ASLR) has limited use of the mouth area.
+    Disambiguation of homonyms is one of the functions of mouth actions, making them essential for tasks involving ambiguous hand signs. 
+    To measure their importance for ASLR, we trained a classifier to recognize ambiguous hand signs. We compared three models which use the upper body/hands area,
+    the mouth, and both combined as input. We found that the addition of the mouth area in the model resulted in the best accuracy, giving an improvement of 7.2% and 4.7%
+    on the validation and test set, while allowing disambiguation of the hand signs for most of the cases. In cases where the disambiguation failed, it was observed that 
+    the signers in the video samples occasionally didn't perform mouthings. In a few cases, the mouthing was enough to achieve full disambiguation of the signs. 
+    We conclude that further investigation on the modelling of the mouth region can be beneficial of future ASLR systems.},
   preview={disambig_model.png},
   bibtex_show={true},
   selected={true},
@@ -48,9 +55,20 @@
   pages={456--465},
   year={2022},
   doi={10.1007/s00106-021-01143-9},
-  pdf={s00106-021-01143-9(1).pdf},
-  note={Erratum in HNO, 70(6):466-467, 2022.},
+  pdf={https://link.springer.com/content/pdf/10.1007/s00106-021-01143-9.pdf},
+  note={⭐<b>Best Poster Award</b> @ DGA 2022 (German Society of Audiology)},
   poster={PosterPhamLipreading.pdf},
+  abstract = {When reading lips, many people benefit from additional visual information from the lip movements of the speaker, which is, however, very error prone.
+    Algorithms for lip reading with artificial intelligence based on artificial neural networks significantly improve word recognition but are not available for 
+    the German language. A total of 1806 videoclips with only one German-speaking person each were selected, split into word segments, and assigned to word classes
+    using speech-recognition software. In 38,391 video segments with 32 speakers, 18 polysyllabic, visually distinguishable words were used to train and validate 
+    a neural network. The 3D Convolutional Neural Network and Gated Recurrent Units models and a combination of both models (GRUConv) were compared, as were different
+    image sections and color spaces of the videos. The accuracy was determined in 5000 training epochs. Comparison of the color spaces did not reveal 
+    any relevant different correct classification rates in the range from 69% to 72%. With a cut to the lips, a significantly higher accuracy of 70% was achieved than
+    when cut to the entire speaker's face (34%). With the GRUConv model, the maximum accuracies were 87% with known speakers and 63% in the validation with 
+    unknown speakers. The neural network for lip reading, which was first developed for the German language, shows a very high level of accuracy, 
+    comparable to English-language algorithms. It works with unknown speakers as well and can be generalized with more word classes.
+  },
   preview={beispiel_mouth.gif},
   bibtex_show={true},
   selected={true},

@@ -91,7 +91,7 @@
       {%- if forloop.last and author_array_limit == author_array_size -%}and&nbsp;{%- endif -%}
       {%- endif -%}
       {% if author.first == "Dinh Nam" and author.last == "Pham" %}
-      <strong><em><b>{{author.first}} {{author.last}}</b></em></strong>
+      <em><b>{{author.first}} {{author.last}}</b></em>
       {%- else -%}
       {%- if coauthor_url -%}
       <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>
@@ -251,8 +251,15 @@
 
     {% if entry.bibtex_show -%}
     <!-- Hidden bibtex block -->
+
+    <!-- Copy bibtex without note -->
+    {% assign modified_bibtex = entry.bibtex %}
+    {% if entry.note -%}
+    {% assign modified_bibtex = modified_bibtex | remove: entry.note %}
+    {% endif -%}
+
     <div class="bibtex hidden">
-      {% highlight bibtex %}{{ entry.bibtex | hideCustomBibtex }}{% endhighlight %}
+      {% highlight bibtex %}{{ modified_bibtex | hideCustomBibtex }}{% endhighlight %}
     </div>
     {%- endif %}
   </div>
