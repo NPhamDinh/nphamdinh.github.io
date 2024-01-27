@@ -7,15 +7,15 @@ nav: true
 nav_order: 5
 ---
 
-<img src="https://nphamdinh.github.io/assets/img/suga_shrine_stairs.jpg" alt="">
+<img src="suga_shrine_stairs.jpg" alt="">
 
 <section>
 
 	<p class="mt-4">
 		Read a summary below or
 		<ul>
-		<li><b><span style="font-size: 12pt"><a href="Alexa F. Siu CV-2021.pdf" target="_blank">Download my CV</a></span></b></li>
-		<li><b><span style="font-size: 12pt"><a href="Alexa F. Siu Resume.pdf" target="_blank">Download my Resume</a></span></b></li>
+		<li><b><span style="font-size: 12pt"><a href="CV_Pham_Dinh_Nam_2024.pdf" target="_blank">Download my CV</a></span></b></li>
+		<li><b><span style="font-size: 12pt"><a href="CV_Pham_Dinh_Nam_2024.pdf" target="_blank">Download my Resume</a></span></b></li>
 		</ul>
 	</p>
 
@@ -79,10 +79,10 @@ Analytics, Software Engineering, Introduction to Programming, Stochastic</small>
 <section class="mt-5 mb-2">
 	<div class="row">
 		<div class="col-sm">
-			<a href="Alexa F. Siu CV-2021.pdf" target="_blank" class="btn btn-outline-primary btn-lg mr-5" role="button">Download CV</a>
+			<a href="CV_Pham_Dinh_Nam_2024.pdf" target="_blank" class="btn btn-outline-primary btn-lg mr-5" role="button">Download CV</a>
 <!-- 		</div>
 		<div class="col-sm"> -->
-			<a href="Alexa F. Siu Resume.pdf" target="_blank" class="btn btn-outline-primary btn-lg" role="button">Download Resume</a>
+			<a href="CV_Pham_Dinh_Nam_2024.pdf" target="_blank" class="btn btn-outline-primary btn-lg" role="button">Download Resume</a>
 		</div>
 	</div>
 </section>
