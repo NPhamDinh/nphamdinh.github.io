@@ -7,7 +7,8 @@ nav: true
 nav_order: 5
 ---
 
-[comment]: <img src="https://nphamdinh.github.io/assets/img/suga_shrine_stairs.jpg" alt="" style="width:1000px;height:400px;">
+<!---
+<img src="https://nphamdinh.github.io/assets/img/suga_shrine_stairs.jpg" alt="" style="width:1000px;height:400px;">
 
 [comment]:<section>
 
@@ -19,8 +20,8 @@ nav_order: 5
 		</ul>
 	</p>
 
-[comment]:</section>
-
+</section>
+-->
 
 ---
 
@@ -76,13 +77,14 @@ Analytics, Software Engineering, Introduction to Programming, Stochastic</small>
 - Created a personal website using HTML, CSS, and JavaScript to showcase my portfolio and resume.
 - Implemented responsive design for optimal viewing on various devices.
 
-[comment]:<section class="mt-5 mb-2">
+<!---
+<section class="mt-5 mb-2">
 	<div class="row">
 		<div class="col-sm">
 			<a href="https://nphamdinh.github.io/assets/pdf/CV_Pham_Dinh_Nam_2024" target="_blank" class="btn btn-outline-primary btn-lg mr-5" role="button">Download CV</a>
-<!-- 		</div>
-		<div class="col-sm"> -->
+
 			<a href="https://nphamdinh.github.io/assets/pdf/CV_Pham_Dinh_Nam_2024" target="_blank" class="btn btn-outline-primary btn-lg" role="button">Download Resume</a>
 		</div>
 	</div>
-[comment]:</section>
+</section>
+-->
