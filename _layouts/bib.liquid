@@ -91,7 +91,7 @@
       {%- if forloop.last and author_array_limit == author_array_size -%}and&nbsp;{%- endif -%}
       {%- endif -%}
       {% if author.first == "Dinh Nam" and author.last == "Pham" %}
-      <b>{{author.first}} {{author.last}}</b>
+      <strong><em><b>{{author.first}} {{author.last}}</b></em></strong>
       {%- else -%}
       {%- if coauthor_url -%}
       <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>
