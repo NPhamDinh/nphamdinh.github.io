@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Aspiring Researcher. Computer Science Student @ <a href='https://www.tu.berlin/en/'>TU Berlin</a>. Student Researcher @ <a href='https://www.dfki.de/en/web'>DFKI</a>.
 
 profile:
   align: right
