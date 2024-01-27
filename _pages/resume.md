@@ -7,11 +7,18 @@ nav: true
 nav_order: 5
 ---
 
+
+<p style="text-align:center;">
+   <center>
+   <figure>
+      <img src="https://nphamdinh.github.io/assets/img/suga_shrine_stairs.jpg" alt="" class="centerImage" style="width:640px;height:305px;">
+      <figcaption><small>(Do you recognize these stairs from somewhere?)</small></figcaption>
+   </figure>
+   </center>
+</p>
+
 <!---
-<img src="https://nphamdinh.github.io/assets/img/suga_shrine_stairs.jpg" alt="" style="width:1000px;height:400px;">
-
-[comment]:<section>
-
+<section>
 	<p class="mt-4">
 		Read a summary below or
 		<ul>
