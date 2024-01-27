@@ -15,8 +15,8 @@ nav_order: 5
 	<p class="mt-4">
 		Read a summary below or
 		<ul>
-		<li><b><span style="font-size: 12pt"><a href="https://nphamdinh.github.io/assets/pdf/CV_Pham_Dinh_Nam_2024" target="_blank">Download my CV</a></span></b></li>
-		<li><b><span style="font-size: 12pt"><a href="https://nphamdinh.github.io/assets/pdf/CV_Pham_Dinh_Nam_2024" target="_blank">Download my Resume</a></span></b></li>
+		<li><b><span style="font-size: 12pt"><a href="https://nphamdinh.github.io/assets/pdf/CV_Pham_Dinh_Nam_2024.pdf" target="_blank">Download my CV</a></span></b></li>
+		<li><b><span style="font-size: 12pt"><a href="https://nphamdinh.github.io/assets/pdf/CV_Pham_Dinh_Nam_2024.pdf" target="_blank">Download my Resume</a></span></b></li>
 		</ul>
 	</p>
 
@@ -81,9 +81,9 @@ Analytics, Software Engineering, Introduction to Programming, Stochastic</small>
 <section class="mt-5 mb-2">
 	<div class="row">
 		<div class="col-sm">
-			<a href="https://nphamdinh.github.io/assets/pdf/CV_Pham_Dinh_Nam_2024" target="_blank" class="btn btn-outline-primary btn-lg mr-5" role="button">Download CV</a>
+			<a href="https://nphamdinh.github.io/assets/pdf/CV_Pham_Dinh_Nam_2024.pdf" target="_blank" class="btn btn-outline-primary btn-lg mr-5" role="button">Download CV</a>
 
-			<a href="https://nphamdinh.github.io/assets/pdf/CV_Pham_Dinh_Nam_2024" target="_blank" class="btn btn-outline-primary btn-lg" role="button">Download Resume</a>
+			<a href="https://nphamdinh.github.io/assets/pdf/CV_Pham_Dinh_Nam_2024.pdf" target="_blank" class="btn btn-outline-primary btn-lg" role="button">Download Resume</a>
 		</div>
 	</div>
 </section>
