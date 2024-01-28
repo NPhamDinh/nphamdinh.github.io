@@ -1,24 +1,15 @@
 ---
 layout: page
 title: Malware Detection
-description: Files are converted as images and then classified by a CNN to identify Malware.
+description: Files are converted into images and then classified by a CNN to identify Malware.
 img: assets/img/malware_preview.jpg
 importance: 3
 category: fun
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+When it comes to malware, there are two ways to play detective: dynamic and static analysis. One involves running suspicious software in a virtual playground to see how it behaves, and the other looks at the malware's characteristics without letting it run wild. Traditional methods, like checking hash values in a database, have their limits as new malware pops up all the time.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+But here's where it gets interesting: we stumbled upon a cool <a href="https://doi.org/10.1145/2016904.2016908">idea</a> from Nataraj et al. Instead of sifting through lines of code, what if we turned it into a picture? We're talking about representing a file's binary code as a grayscale image. Interestingly, it transforms malware analysis into an image recognition game.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

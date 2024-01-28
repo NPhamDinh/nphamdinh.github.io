@@ -23,3 +23,5 @@ Hey, I'm Nam, a Machine Learning and Accessible Computing enthusiast! Currently,
 Previously, I've interned with [Cambridge CARES](https://www.cares.cam.ac.uk/), a research centre of the University of Cambridge, and [Mercedes-Benz Tech Innovation](https://www.mercedes-benz-techinnovation.com/en/). I was awarded several scholarships such as the [Studienstiftung](https://www.studienstiftung.de/en/), Germany's most prestigious scholarship, which supports me financially throughout my academic journey.
 
 Let's get in touch! Feel free to contact me for collaborations or opportunities.
+
+<br>
