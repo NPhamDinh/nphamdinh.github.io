@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Malware DetectioN
+title: Malware Detection
 description: Files are converted as images and then classified by a CNN to identify Malware.
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+img: assets/img/malware_preview.jpg
 importance: 3
 category: fun
 ---
