@@ -7,25 +7,29 @@ nav: true
 nav_order: 5
 ---
 
-<!---
+
 <p style="text-align:center;">
    <center>
-      <img src="https://nphamdinh.github.io/assets/img/cv-banner.png" alt="" class="centerImage" style="width:320px;height:153px;">
+      <img src="https://nphamdinh.github.io/assets/img/cv-banner.png" alt="" class="centerImage" style="width:640px;height:123px;">
    </center>
 </p>
 
 
 <section>
 	<p class="mt-4">
-		Read a summary below or
-		<ul>
-		<li><b><span style="font-size: 12pt"><a href="https://nphamdinh.github.io/assets/pdf/CV_Pham_Dinh_Nam_2024.pdf" target="_blank">Download my CV</a></span></b></li>
-		<li><b><span style="font-size: 12pt"><a href="https://nphamdinh.github.io/assets/pdf/CV_Pham_Dinh_Nam_2024.pdf" target="_blank">Download my Resume</a></span></b></li>
-		</ul>
+		Read the CV below or download my one-page resume
+		<section class="mt-5 mb-2">
+	<div class="row">
+		<div class="col-sm">
+			<!---<a href="https://nphamdinh.github.io/assets/pdf/CV_Pham_Dinh_Nam_2024.pdf" target="_blank" class="btn btn-outline-primary btn-lg mr-5" role="button">Download CV</a> -->
+			<a href="https://nphamdinh.github.io/assets/pdf/CV_Pham_Dinh_Nam_2024.pdf" target="_blank" class="btn btn-outline-primary btn-lg" role="button">Download Resume</a>
+		</div>
+	</div>
+</section>
 	</p>
 
 </section>
--->
+
 
 ---
 
@@ -67,28 +71,16 @@ Analytics, Software Engineering, Introduction to Programming, Stochastic</small>
 ---
 
 ## Skills
-- **Programming Languages:** JavaScript, Python, Java
-- **Web Technologies:** HTML, CSS, React, Node.js
-- **Database:** SQL, MongoDB
-- **Tools:** Git, Visual Studio Code
-- **Agile Development:** Scrum, Kanban
+- **Programming Languages:** Python, Java, C
+- **Database:** SQL, Postgres, DB2, Spark, BlazeGraph
+- **Tools:** Git, Linux, Power BI, Databricks
+- **Frameworks & Libraries** PyTorch, TensorFlow, Pandas, Scikit-learn, NumPy, OpenCV
 
 ---
 
 ## Projects
-### Personal Website
+<br>
+#### <b>Personal Website</b>
 *Spring 2020*
 - Created a personal website using HTML, CSS, and JavaScript to showcase my portfolio and resume.
 - Implemented responsive design for optimal viewing on various devices.
-
-<!---
-<section class="mt-5 mb-2">
-	<div class="row">
-		<div class="col-sm">
-			<a href="https://nphamdinh.github.io/assets/pdf/CV_Pham_Dinh_Nam_2024.pdf" target="_blank" class="btn btn-outline-primary btn-lg mr-5" role="button">Download CV</a>
-
-			<a href="https://nphamdinh.github.io/assets/pdf/CV_Pham_Dinh_Nam_2024.pdf" target="_blank" class="btn btn-outline-primary btn-lg" role="button">Download Resume</a>
-		</div>
-	</div>
-</section>
--->
