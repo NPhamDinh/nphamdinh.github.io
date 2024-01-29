@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    "The day you think there is no improvements to be made is a sad one for any player." - Lionel Messi
+    <small>"The day you think there is no improvements to be made is a sad one for any player." - Lionel Messi</small>
 
 
 news: false # includes a list of news items
@@ -24,4 +24,3 @@ Previously, I've interned with [Cambridge CARES](https://www.cares.cam.ac.uk/), 
 
 Let's get in touch! Feel free to contact me for collaborations or opportunities.
 
-<br>

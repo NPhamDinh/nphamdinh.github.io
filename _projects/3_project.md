@@ -9,63 +9,38 @@ category: fun
 
 When it comes to malware, there are two ways to play detective: dynamic and static analysis. One involves running suspicious software in a virtual playground to see how it behaves, and the other looks at the malware's characteristics without letting it run wild. Traditional methods, like checking hash values in a database, have their limits as new malware pops up all the time.
 
-But here's where it gets interesting: we stumbled upon a cool <a href="https://doi.org/10.1145/2016904.2016908">idea</a> from Nataraj et al. Instead of sifting through lines of code, what if we turned it into a picture? We're talking about representing a file's binary code as a grayscale image. Interestingly, it transforms malware analysis into an image recognition game.
+But here's where it gets interesting: back in high school, I stumbled upon a cool <a href="https://doi.org/10.1145/2016904.2016908">idea</a> from Nataraj et al. Instead of sifting through lines of code, what if we turned it into a picture? We're talking about representing a file's binary code as a grayscale image. Interestingly, it transforms malware analysis into an image recognition game.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/malware_goodware.jpg" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Can you see the difference between malware and goodware?
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
+
+
+These representations are being created by converting every 8 Bits of a file into a greyscale value for a pixel. Taking advantage of that lead to a hobby project in my high school days. The original paper classified these with GIST feature extraction and k-nearest-neighbour. Henceforth, I decided to use CNNs for that and outperform the previous accuracies. 
+Moreover, the FC-layers of CNNs require the inputs to be of same size. Due to programs being of different lenghts, I decided to not only scale the images to the same size, but also compare the approach of using spatial pyramid pooling for this matter. 
+
+| Dataset | Resizing | Spatial Pyramid Pooling | Adaptive Max Pooling |
+|----------|----------|----------|
+| Malimg (25 virus families) | 98.07% | 96.79% | 94.97% |
+| MS Malware (9 virus families) | 97.33% | 90.71% | 88.78 % |
+| Raw PE (binary) | 82.54%| 83.53 %| 78.17 % |
+
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Accuracies of the CNN on the datasets with different strategies to approach inputs of different sizing
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+<center><img src="/assets/img/malware_preview.png" width="300" height="300" /> </center>
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Representation of two virus families
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Thus, resizing all images to the same size (256x256) appears to perform best for classifying virus families. The spatial pyramid pooling lead to the best accuracy for distinguishing malware and goodware. Regardless of the domain, examining other approaches to handle the matter of having inputs of different sizes for a classifier was quite thrilling. Shoutout to my school mate Jan P. Große who did it together with me.
 
-{% raw %}
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
 
-{% endraw %}

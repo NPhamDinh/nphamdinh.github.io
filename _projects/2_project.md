@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Autonomous Landing Model Rocket
+description: Building a model rocket and let it land autonomously.
+img: assets/img/rocket_progress.jpg
 importance: 2
 category: fun
 giscus_comments: true
