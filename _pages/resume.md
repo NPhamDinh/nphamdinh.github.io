@@ -101,6 +101,6 @@ Analytics, Software Engineering, Introduction to Programming, Stochastic</small>
 ### <b>Presentations and Invited Talks</b>
 - <span style="color:grey">(2023)</span> **Presentation** at European Symposium for Artificial Neural Networks (ESANN)
 - <span style="color:grey">(2023)</span> **Invited Speaker** at Digitalforum der Wirtschaft Sachsen-Anhalts
-- <span style="color:grey">(2021)</span> **Invited Speaker** at "Day of the Talents", German Federal Ministry of Education and Research
+- <span style="color:grey">(2022)</span> **Invited Speaker** at "Day of the Talents", German Federal Ministry of Education and Research
 - <span style="color:grey">(2022)</span> **Presentation** at Annual Meeting of the German Society of Audiology (DGA)
 - <span style="color:grey">(2021)</span> **Invited Speaker** at Mittelstand-Digital Zentrum Magdeburg
