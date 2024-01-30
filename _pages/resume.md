@@ -71,9 +71,9 @@ Analytics, Software Engineering, Introduction to Programming, Stochastic</small>
 ---
 
 ### <b>Skills</b>
-- **Programming Languages:** Python, Java, C
+- **Programming Languages:** Python, Java, C, C++
 - **Database:** SQL, Postgres, DB2, Spark, BlazeGraph
-- **Tools:** Git, Linux, Power BI, Databricks
+- **Tools:** Git, Linux, Docker, Arduino, Power BI, Databricks
 - **Frameworks & Libraries** PyTorch, TensorFlow, Pandas, Scikit-learn, NumPy, OpenCV
 
 ---
