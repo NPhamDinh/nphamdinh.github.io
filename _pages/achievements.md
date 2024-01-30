@@ -47,7 +47,11 @@ nav_order: 6
  </tr>
   <tr>
     <td><b>2019</b></td>
-    <td><b>Award</b> of the <a href="https://www.mb21.de//" target="_blank">German Multimedia Award mb21</a>, age group 16-20.</td>
+    <td><b>Award</b> of the <a href="https://www.mb21.de/" target="_blank">German Multimedia Award mb21</a>, age group 16-20.</td>
+ </tr>
+ <tr>
+    <td><b>2019</b></td>
+    <td><b>Junior Academy Member</b> at the <a href="https://www.nyas.org/" target="_blank">New York Academy of Sciences</a> [Acceptance Rate: 10%].</td>
  </tr>
 </table>
 
