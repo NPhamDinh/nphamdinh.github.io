@@ -41,6 +41,9 @@ nav_order: 5
 <small><span style="color:grey">Oct 2021 - Present</span></small><br>Technical University of Berlin
 - <small>Relevant Coursework: Database Project, Scientific Computation, Algorithms & Data Structures, Information Systems and Data 
 Analytics, Software Engineering, Introduction to Programming, Stochastic</small>
+- <small>Semester abroad in summer 2024 at 3 international summer schools,
+taking courses in language and culture:
+Tohoku University (May-June, Japan), Hanyang University (June-July, South Korea), Chinese University of Hongkong (August, Hongkong)</small>
 
 ---
 

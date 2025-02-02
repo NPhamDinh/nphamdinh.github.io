@@ -9,16 +9,6 @@ display_categories: [fun]
 horizontal: false
 ---
 
-<p style="text-align:center;">
-   <center>
-   <figure>
-      <img src="https://nphamdinh.github.io/assets/img/suga_shrine_stairs.jpg" alt="" class="centerImage" style="width:640px;height:305px;">
-      <figcaption><small>(Do you recognize these stairs from somewhere?)</small></figcaption>
-   </figure>
-   </center>
-</p>
-
----
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
