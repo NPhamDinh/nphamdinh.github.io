@@ -18,16 +18,15 @@ nav_order: 5
    </center>
 </p>
 <!--https://raw.githubusercontent.com/NPhamDinh/nphamdinh.github.io/refs/heads/master/assets/img/cv-banner.png?token=GHSAT0AAAAAAC3MZT5HBXMKLGQQZ2Q53FAQZ5BQF6Q-->
-
+<!---
 <section>
 	<p class="mt-4">
 		Read the CV below or download my one-page resume
 		<section class="mt-5 mb-2">
 	<div class="row">
 		<div class="col-sm">
-			<!---<a href="https://nphamdinh.github.io/assets/pdf/CV_Pham_Dinh_Nam_2024.pdf" target="_blank" class="btn btn-outline-primary btn-lg mr-5" role="button">Download CV</a> -->
 			{% include button.liquid 
-         href="/assets/pdf/CV_Pham_Dinh_Nam_2024.pdf" 
+         href="assets/pdf/CV_Pham_Dinh_Nam_2024.pdf" 
          text="Download Resume" 
          class="mr-5"
       %}
@@ -35,8 +34,8 @@ nav_order: 5
 	</div>
 </section>
 	</p>
-
 </section>
+-->
 
 
 ---
