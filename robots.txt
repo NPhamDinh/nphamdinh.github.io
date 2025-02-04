@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: nphamdinh.github.io/sitemap.xml
+Sitemap: nphamdinh.github.io/blog//sitemap.xml
