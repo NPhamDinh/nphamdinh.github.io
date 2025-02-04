@@ -10,10 +10,10 @@ nav_order: 5
 
 <p style="text-align:center;">
    <center>
-      <img src="https://nphamdinh.github.io/assets/img/cv-banner.png" alt="" class="centerImage" style="width:640px;height:123px;">
+      <img src="{{ site.baseurl }}{{ post.url }}/assets/img/cv-banner.png" alt="" class="centerImage" style="width:640px;height:123px;">
    </center>
 </p>
-
+<!--https://raw.githubusercontent.com/NPhamDinh/nphamdinh.github.io/refs/heads/master/assets/img/cv-banner.png?token=GHSAT0AAAAAAC3MZT5HBXMKLGQQZ2Q53FAQZ5BQF6Q-->
 
 <section>
 	<p class="mt-4">
@@ -22,7 +22,7 @@ nav_order: 5
 	<div class="row">
 		<div class="col-sm">
 			<!---<a href="https://nphamdinh.github.io/assets/pdf/CV_Pham_Dinh_Nam_2024.pdf" target="_blank" class="btn btn-outline-primary btn-lg mr-5" role="button">Download CV</a> -->
-			<a href="https://nphamdinh.github.io/assets/pdf/CV_Pham_Dinh_Nam_2024.pdf" target="_blank" class="btn btn-outline-primary btn-lg" role="button">Download Resume</a>
+			<a href="{{ site.baseurl }}{{ post.url }}/assets/pdf/CV_Pham_Dinh_Nam_2024.pdf" target="_blank" class="btn btn-outline-primary btn-lg" role="button">Download Resume</a>
 		</div>
 	</div>
 </section>
