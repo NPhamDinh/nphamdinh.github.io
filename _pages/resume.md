@@ -17,7 +17,6 @@ nav_order: 5
 %}
    </center>
 </p>
-<!--https://raw.githubusercontent.com/NPhamDinh/nphamdinh.github.io/refs/heads/master/assets/img/cv-banner.png?token=GHSAT0AAAAAAC3MZT5HBXMKLGQQZ2Q53FAQZ5BQF6Q-->
 <!---
 <section>
 	<p class="mt-4">
