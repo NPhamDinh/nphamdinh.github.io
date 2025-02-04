@@ -26,7 +26,11 @@ nav_order: 5
 	<div class="row">
 		<div class="col-sm">
 			<!---<a href="https://nphamdinh.github.io/assets/pdf/CV_Pham_Dinh_Nam_2024.pdf" target="_blank" class="btn btn-outline-primary btn-lg mr-5" role="button">Download CV</a> -->
-			<a href="assets/pdf/CV_Pham_Dinh_Nam_2024.pdf" target="_blank" class="btn btn-outline-primary btn-lg" role="button">Download Resume</a>
+			{% include button.liquid 
+         href="/assets/pdf/CV_Pham_Dinh_Nam_2024.pdf" 
+         text="Download Resume" 
+         class="mr-5"
+      %}
 		</div>
 	</div>
 </section>
