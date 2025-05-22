@@ -6,7 +6,7 @@ subtitle: Aspiring Researcher. CS Student @ <a href='https://www.tu.berlin/en/'>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Nam_headshot.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <small>"The day you think there is no improvements to be made is a sad one for any player." - Lionel Messi</small>
