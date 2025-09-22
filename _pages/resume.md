@@ -90,7 +90,7 @@ Tohoku University (May-June, Japan), Hanyang University (June-July, South Korea)
 ### <b>Selected Publications</b>
 - <small><b>Dinh Nam Pham</b>, Vera Czehmann, Eleftherios Avramidis, "Disambiguating Signs: Deep Learning-based Gloss-level Classification for German Sign Language by Utilizing Mouth Actions," in Proceedings of the 31st European Symposium on Artificial Neural Networks, Computational Intelligence, and Machine Learning (ESANN 2023), 2023, pp. 595–600. [<a href="https://www.esann.org/sites/default/files/proceedings/2023/ES2023-168.pdf">PDF</a>]
 </small>
-- <small><b>Dinh Nam Pham</b>, Torsten Rahne. "Entwicklung und Evaluation eines Deep-Learning-Algorithmus fur die Worterkennung aus Lippenbewegungen für die deutsche Sprache," in HNO, vol. 70, no. 6, pp. 456–465, 2022. [<a href="https://link.springer.com/article/10.1007/s00106-021-01143-9">PDF</a>]
+- <small><b>Dinh Nam Pham</b>, Torsten Rahne. "Entwicklung und Evaluation eines Deep-Learning-Algorithmus fur die Worterkennung aus Lippenbewegungen für die deutsche Sprache," in HNO, vol. 70, no. 6, pp. 456–465, 2022. [<a href="https://link.springer.com/content/pdf/10.1007/s00106-021-01143-9.pdf">PDF</a>]
 </small>
 
 ---
