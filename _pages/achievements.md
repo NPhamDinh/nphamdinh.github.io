@@ -18,6 +18,10 @@ nav_order: 6
 <table border="0">
 
  <tr>
+    <td><b>2025</b></td>
+    <td><b> Lance Stafford Larson Student Paper Award</b> from IEEE Computer Society.</td>
+ </tr>
+ <tr>
     <td><b>2023</b></td>
     <td><b>GEH DEINEN WEG Scholarship</b> from <a href="https://www.deutschlandstiftung.net/projekte/geh-deinen-weg-programm" target="_blank">Deutschlandstiftung Integration</a>.</td>
  </tr>
