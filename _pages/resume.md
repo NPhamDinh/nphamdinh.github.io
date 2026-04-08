@@ -103,7 +103,7 @@ Tohoku University (May-June, Japan), Hanyang University (June-July, South Korea)
 - <span style="color:grey">(2025)</span> **Lance Stafford Larson Student Paper Award** from IEEE Computer Society
 - <span style="color:grey">(2023)</span> **GEH DEINEN WEG Scholarship** from Deutschlandstiftung Integration
 - <span style="color:grey">(2023)</span> **DAAD RISE Scholarship Offer**, declined to accept different internship
-- <span style="color:grey">(2022)</span> **Best Poster Award** from the German Society of Audology at the DGA Annual Meeting 
+- <span style="color:grey">(2022)</span> **Best Poster Award** at the 2022 Annual Meeting of the German Society of Audiology (DGA)
 - <span style="color:grey">(2022)</span> **Scholarship** from Studienstiftung des deutschen Volkes
 - <span style="color:grey">(2022)</span> **TANDEM-Scholarship** from Deutsche Universitätsstiftung
 - <span style="color:grey">(2021)</span> **Honour** from eLeMeNTe e.V.
