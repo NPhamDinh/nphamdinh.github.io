@@ -43,8 +43,12 @@ nav_order: 5
 
 <br>
 
+<h5><b>Master of Science in Computer Science</b></h5>
+<small><span style="color:grey">Oct 2025 - Present</span></small><br>Technical University of Berlin
+- 1-Year Study Abroad at Sophia University in Tokyo, Japan
+
 <h5><b>Bachelor of Science in Computer Science</b></h5>
-<small><span style="color:grey">Oct 2021 - Present</span></small><br>Technical University of Berlin
+<small><span style="color:grey">Oct 2021 - Dec 2025</span></small><br>Technical University of Berlin
 - <small>Relevant Coursework: Database Project, Scientific Computation, Algorithms & Data Structures, Information Systems and Data 
 Analytics, Software Engineering, Introduction to Programming, Stochastic</small>
 - <small>Semester abroad in summer 2024 at 3 international summer schools,
@@ -59,10 +63,10 @@ Tohoku University (May-June, Japan), Hanyang University (June-July, South Korea)
 <br>
 
 <h5><b>Student Researcher</b></h5>
-<small><span style="color:grey">Nov 2022 - Present</span></small><br>German Research Center for Artificial Intelligence (DFKI), Berlin
+<small><span style="color:grey">Nov 2022 - Sep 2025</span></small><br>German Research Center for Artificial Intelligence (DFKI), Berlin
+-	<small>First-authored 4 peer-reviewed publications</small>  
+-	<small>Design and implementation of QoE assessment of machine-generated text</small>
 -	<small>Independent research on deep learning-based recognition of mouth actions for sign language</small>
--	<small>Training models in PyTorch on GPU cluster and create scripts for web scraping and preprocessing</small>
--	<small>Visualization of results and engagement in academic publications</small>
 
 <h5><b>Research Intern</b></h5>
 <small><span style="color:grey">Aug 2023 - Oct 2023</span></small><br>Cambridge CARES, Singapore
@@ -96,6 +100,7 @@ Tohoku University (May-June, Japan), Hanyang University (June-July, South Korea)
 ---
 
 ### <b>Awards and Honours</b>
+- <span style="color:grey">(2025)</span> **Lance Stafford Larson Student Paper Award** from IEEE Computer Society
 - <span style="color:grey">(2023)</span> **GEH DEINEN WEG Scholarship** from Deutschlandstiftung Integration
 - <span style="color:grey">(2023)</span> **DAAD RISE Scholarship Offer**, declined to accept different internship
 - <span style="color:grey">(2022)</span> **Best Poster Award** from the German Society of Audology at the DGA Annual Meeting 
