@@ -31,7 +31,7 @@ nav_order: 6
  </tr>
  <tr>
     <td><b>2022</b></td>
-    <td><b>Best Poster Award</b> from the <a href="https://www.dga-ev.com/" target="_blank">German Society of Audology</a> at the DGA Annual Meeting 2022.</td>
+    <td><b>Best Poster Award</b> from the <a href="https://www.dga-ev.com/" target="_blank">German Society of Audology</a> at the 2022 Annual Meeting of the German Society of Audiology (DGA).</td>
  </tr>
 <tr>
     <td><b>2022</b></td>
