@@ -63,6 +63,10 @@ Tohoku University (May-June, Japan), Hanyang University (June-July, South Korea)
 <br>
 
 <h5><b>Student Researcher</b></h5>
+<small><span style="color:grey">Oct 2026 - Present</span></small><br>Fraunhofer Heinrich Hertz Insitute (HHI), Berlin
+-	<small>Development of deep learning-based animation of 3D human head avatars</small>  
+
+<h5><b>Student Researcher</b></h5>
 <small><span style="color:grey">Nov 2022 - Sep 2025</span></small><br>German Research Center for Artificial Intelligence (DFKI), Berlin
 -	<small>First-authored 4 peer-reviewed publications</small>  
 -	<small>Design and implementation of QoE assessment of machine-generated text</small>
